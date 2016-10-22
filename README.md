@@ -6,7 +6,7 @@ An implementation of gridster-like widgets for Angular JS.  This is not a wrappe
 
 ## Demo
 
-See <a href="https://rawgit.com/ManifestWebDesign/angular-gridster/master/index.html">Live Demo</a>
+See <a href="https://rawgit.com/arkabide/angular-gridster/master/index.html">Live Demo</a>
 
 ## Installation
 
